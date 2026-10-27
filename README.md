@@ -25,7 +25,7 @@ Fastest route cost: 19
 
 My maze:
 
-![maze](output/maze.png)
+![maze](maze.png)
 
 ## Questions
 
